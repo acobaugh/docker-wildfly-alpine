@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:3.4
 
 # Alpine + OpenJDK 8.x + Wildfly 9 docker image
 
